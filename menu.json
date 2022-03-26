@@ -523,6 +523,15 @@
       }
     },
     {
+      "name": "臭豆腐",
+      "spicy": false,
+      "easteregg":
+      {
+        "text": "",
+        "img": ""
+      }
+    },
+    {
       "name": "可丽饼",
       "spicy": false,
       "easteregg":
